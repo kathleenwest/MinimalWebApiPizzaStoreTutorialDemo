@@ -1,6 +1,6 @@
 # PizzaStoreMinimalWebApi
 
-A minimal web api project to showcase basic CRUD operations with Http Verb Operations (Get, Post, Put, and Delete). Swagger documentation is configured for test and verification of the web api. 
+A minimal web api project to showcase basic CRUD operations with Http Verb Operations (Get, Post, Put, and Delete). Swagger documentation is configured for test and verification of the web api. See quick steps and demo code to quickly create a minimal web api with asp.net core and swagger setup. This project code is the result of a Microsoft Learn tutorial to build a web API with minimal API, ASP.NET Core, and .NET.
 
 ## How to Quickly Create a Minimal Web Api
 
